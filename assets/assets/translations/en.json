@@ -1,5 +1,4 @@
 {
-
   "welcome_to_login": "Welcome to Login",
   "please_fill_email_password_to_login_your_app_account": "Please fill E-mail & password to login your app account.",
   "remember_me": "Remember me",
@@ -56,6 +55,7 @@
   "old_password_should_include_1_number": "Old password should include at least 1 number",
   "role":"Role",
   "status":"Status",
+  "owner_name":"Owner Name",
   "action":"Action",
   "date_added":"Date Added",
   "add_new_sub_admin":"Add New Sub Admin",
@@ -84,6 +84,7 @@
   "help_center_management":"Help Center Management",
   "chat_management":"Chat Management",
   "female":"Female",
+  "renter_name":"Renter Name",
   "property_capital":"PROPERTY",
   "save": "Save",
   "forgot_password_2": "Forgot password",
@@ -104,8 +105,6 @@
   "password_does_not_match":"Password does not match",
   "assigned_role": "Assigned Role",
   "settings":"Settings",
-
-
    "owner_table":"Owner Table",
    "toilet Detail":"Toilet Detail",
    "toilet_detail":"Toilet Detail",
@@ -113,7 +112,6 @@
    "signature":"Signature",
    "zip_code":"Zip Code",
    "city":"City",
-
   "property_picture":"Property Picture",
   "property_picture_1":"Property \nPicture",
   "property_name":"Property Name",
@@ -123,11 +121,11 @@
   "date":"Date",
   "property_detail_1":"Property \nDetail",
   "booking_detail_1":"Booking \nDetail",
-
   "cancelled":"Cancelled",
   "pending":"Pending",
   "approved":"Approved",
   "rejected":"Rejected",
+  "completed":"Completed",
   "booking_detail":"Booking Detail",
   "renter_name_1":"Renter \nName",
   "total_time":"Total \nTime",
@@ -141,146 +139,12 @@
   "renter_table":"Renter Table",
   "bookings":"Bookings",
   "requests":"Requests",
-  "":"",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  "enter_your_email": "Enter your email",
-  "enter_your_email_address": "Enter Your Email Address",
-  "email_required": "Email is required",
-
-  "enter_valid_email": "Please enter a valid email address",
-
-  "password_required": "Password is required",
-  "live_password_validation": "Enter a combination of at least 6 character with number and special character",
-
-
-
-
-  "enter_your_password": "Enter your password",
-  "change_your_password": "Change your default password",
-
-  "enter_password_capital": "Enter Password",
-  "enter_old_and_new_password": "Enter Old Password and New Password",
-  "enter_old_Password": "Enter your old password",
-  "old_password_required": "Old password is required",
-
-  "enter_old_password":"Enter old password",
-
-  "enter_new_and_new_password": "Enter New Password and New Password",
-  "new_password_required": "New password is required",
-
-
-  "confirm_password_is_required": "Confirm password is required",
-  "otp_is_required": "OTP is required",
-  "your_password_has_been_updated_successfully":"Your password has been updated successfully.",
-  "enter_new_Password": "Enter your new password",
-  "password_change_message": "Your password has been changed successfully",
-  "password_change_link_message": "Password Changing link sent to your email address kindly verify your account",
-  "limit_required": "Limit required",
-
-
-  "Password_didn't_match": "Password didn\\'t match",
-  "password_hint": "must include letters, numbers and symbol",
-  "new_password_hint": "must include upper case, numbers and symbols",
-  "enter_otp": "Enter OTP",
-  "enter_complete_otp": "Enter complete OTP",
-  "invalid_otp": "Invalid OTP",
-
-
-
-
-
-
-
-  "please_fill_email_and_password_to_login_your_app_account": "Please fill E-mail & password to login your app account.",
-
-
-
-
-
-
-  "home": "Home",
-  "welcome_back": "Welcome Back! ",
-  "search_here": "Search here",
- "description": "Description",
-
-
-  "upload_images": "Upload Images",
-
-  "proceed":"Proceed",
-
-  "block":"Block",
-
-
-
-
-  "enter_new_password":"Enter new password",
-
-  "enter_first_name":"Enter first name",
-
-  "enter_last_name":"Enter last name",
-
-
-
-
-
-  "please_enter_the_description":"Please enter the description",
-  "description_can_not_be_greater_than_250_characters":"Description can not be greater than 250 characters",
-  "please_upload_the_image":"Please upload the image",
-  "please_enter_the_name":"Please enter the name",
-  "please_enter_the_short_name":"Please enter the Short name",
-
-
-  "please_add_person":"Please add persons",
-  "enter_to_search":"Enter to search",
-
-
-  "dont_have_an_account":"Don't have an account?",
-  "signup":"SIGNUP",
-  "signin":"SIGNIN",
-  "login":"LOGIN",
-  "provide_your_email_to_recover_your_password":"Provide your email to recover your password. ",
-  "didnt_receive_code":"Didn't Receive Code?",
-  "resend":"Resend?",
-  "already_have_an_account":"Already have an account?",
-  "get_otp":"Get OTP",
-  "choose_account_type_for_sign_up":"Choose Account Type for \nSign up.",
-  "terms_&_conditions":"Terms & Conditions",
-  "next":"Next",
-  "fill_the_sign_up_form_for_basic_details":"Fill the sign up form for \nbasic details.",
-  "about":"About",
-  "back":"Back",
-  "fill_the_sign_up_form_for_business_details":"Fill the sign up form for \nbusiness details.",
-  "congratulations":"Congratulations",
-  "your_account_has_been_created_successfully":"Your account has been created successfully.",
-
-  "version": "version ",
-
-  "view_all":"View all",
-
   "logout_que":"Logout?",
   "are_you_sure_you_want_to_logout":"Are you sure you want to logout?",
   "yes":"Yes",
   "no":"No",
-
-  "search...":"Search...",
-  "title":"Title",
-  "enter_your_title":"Enter your title",
-  "date_&_time":"Date & Time"
-
+  "toilet_facility_address":"Toilet Facility Address",
+  "toilet_facilities_must_be_located_within_200_feet_from_the_mobile_food_service_unit":"Toilet facilities must be located within 200 feet from the mobile food \nservice unit. ",
+  "toiler_use_agreement_for_mobile_food_service_unit":"TOILET USE AGREEMENT FOR MOBILE FOOD \nSERVICE UNIT",
+  "":""
 }
