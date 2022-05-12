@@ -47,6 +47,9 @@
   "enter_message":"Enter your message here",
   "active_chats":"Active Chats",
   "blocked":"Blocked",
+  "flat":"Flat",
+  "villa":"Villa",
+  "house":"House",
   "show":"Show",
   "address":"Address",
   "name":"Name",
@@ -161,7 +164,7 @@
   "property_food_vending_location_address":"Property/Food Vending Location Address",
   "owner_address":"Owner Address",
   "toilet_facility_address":"Toilet Facility Address",
-  "toilet_facilities_must_be_located_within_200_feet_from_the_mobile_food_service_unit":"Toilet facilities must be located within 200 feet from the mobile food \nservice unit. ",
+  "toilet_facilities_must_be_located_within_200_feet_from_the_mobile_food_service_unit":"Toilet facilities must be located within 200 feet from the mobile food service unit. ",
   "toiler_use_agreement_for_mobile_food_service_unit":"TOILET USE AGREEMENT FOR MOBILE FOOD \nSERVICE UNIT",
   "":""
 }
