@@ -3,15 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ca9e0daa05b2904c97ccfe5c3a4df124",
+  "assets/AssetManifest.json": "994258df758a3f78146987691cdeb325",
 "assets/assets/images/address_icon.png": "860753c6fc94a158226f97e1d5b9b9ec",
 "assets/assets/images/bookings.png": "f5c30ad38146060f66944388172c3d30",
 "assets/assets/images/bottomRight.png": "cfd43ea0f2f0772a4389bd84abac62af",
 "assets/assets/images/building.png": "f3ed758fbfa3911859750bbe333d365e",
 "assets/assets/images/camera_bg.png": "69bd693d6203440491c89f61eac319b4",
+"assets/assets/images/chat_icon.png": "237be1d3bba647c59af82013dbc469a1",
 "assets/assets/images/contact_icon.png": "274d5f6a7f364d348ea244d902e067a8",
 "assets/assets/images/dashboard_icon.png": "b6e6fad9c7d51de71ef6065c586c99a2",
 "assets/assets/images/dustbin.png": "3ca012466798fd1b51172f0cc7e6ab5e",
+"assets/assets/images/emoji.png": "e5f2d5f7d130d5508f0789dbffbc1bff",
 "assets/assets/images/food_icon.png": "2ea456238565edcf7cff5692bff05148",
 "assets/assets/images/list_menu_icon.png": "a47dda70cd9056a3dcaa3f1bee025b5a",
 "assets/assets/images/locationGrey.png": "968c55c3fbb3706d92443a5765f7f86f",
@@ -35,6 +37,7 @@ const RESOURCES = {
 "assets/assets/images/rent_icon.png": "ffb7f6c41fda86cb7781829d7b3e06ba",
 "assets/assets/images/role_icon.png": "405722b659a81903f25c56f86285e0a2",
 "assets/assets/images/role_icon2.png": "efbd8e078f1078b0271d0dee901be827",
+"assets/assets/images/sendButton.png": "c1bafa9cc46d12aaafb8995fe55535ed",
 "assets/assets/images/signature.png": "2e5e284e9b25d4de0d19c80bf68ccbe5",
 "assets/assets/images/sub_admin_icon.png": "5048dd4600dff4d223e05c33068171e0",
 "assets/assets/images/toilet.png": "50c4fe962c21bde137b85647f1e1ea76",
@@ -43,7 +46,7 @@ const RESOURCES = {
 "assets/assets/images/user.png": "ea8cf576d41b7878b7ca5a07b542747e",
 "assets/assets/images/view.png": "382ab573056bdd5d4d29c71cfb8c5bb9",
 "assets/assets/images/whiteLogo.png": "c17869289059ce7f816e9d2c2d98525c",
-"assets/assets/translations/en.json": "e120aa272f51a1c62048f6ff14df4665",
+"assets/assets/translations/en.json": "cf0ab134a3dfbcbf250bde578af84f3f",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "e07fe2e713526c71ecdc7e5acae9a413",
@@ -70,9 +73,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "c75c07a01b0c35b527141e28b90b9c93",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "27a83c1c92896a0dbfda71f316774b57",
-"/": "27a83c1c92896a0dbfda71f316774b57",
-"main.dart.js": "375b4bf25fa1ac43d9114eb9da0dba48",
+"index.html": "96292551b90c6402bbe162eec791174b",
+"/": "96292551b90c6402bbe162eec791174b",
+"main.dart.js": "81fa3dcd8b97ffbcfa220c4735a4143c",
 "manifest.json": "5fca7f720490a91fa0e3c23819650e4d",
 "version.json": "616192fae97ab513a5ea047baf92d47b"
 };
