@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "994258df758a3f78146987691cdeb325",
+  "assets/AssetManifest.json": "4ae4c7eb317dd65234d47f76a44c1e78",
 "assets/assets/images/address_icon.png": "860753c6fc94a158226f97e1d5b9b9ec",
 "assets/assets/images/bookings.png": "f5c30ad38146060f66944388172c3d30",
 "assets/assets/images/bottomRight.png": "cfd43ea0f2f0772a4389bd84abac62af",
@@ -18,6 +18,7 @@ const RESOURCES = {
 "assets/assets/images/list_menu_icon.png": "a47dda70cd9056a3dcaa3f1bee025b5a",
 "assets/assets/images/locationGrey.png": "968c55c3fbb3706d92443a5765f7f86f",
 "assets/assets/images/logout_icon.png": "5432583abe4bf0256b8f7ee13e24f65c",
+"assets/assets/images/logo_name.png": "3a886471d7443c31252780ea2fb7ed4a",
 "assets/assets/images/menu_icon.png": "b6892236ab57cd92039aad54957e948d",
 "assets/assets/images/noti_icon.png": "5bcbeda61e48b95bde2923c6a9ba32fb",
 "assets/assets/images/officeChair.png": "867e1bb030ac46eabda4f4cf976c2835",
@@ -73,9 +74,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "c75c07a01b0c35b527141e28b90b9c93",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "81cd87a9d800e908ce90894b67d6981a",
-"/": "81cd87a9d800e908ce90894b67d6981a",
-"main.dart.js": "5ca658958e8c02b550ef28c2bfe6bac0",
+"index.html": "60ccbf9e59cba91fa13996c465b0336b",
+"/": "60ccbf9e59cba91fa13996c465b0336b",
+"main.dart.js": "d3f0d80a13e1408ecd0b6eb67a2c11ab",
 "manifest.json": "5fca7f720490a91fa0e3c23819650e4d",
 "version.json": "616192fae97ab513a5ea047baf92d47b"
 };
