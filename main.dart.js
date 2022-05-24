@@ -25659,7 +25659,8 @@ _.d=d
 _.e=e
 _.f=f
 _.r=g
-_.w=h},
+_.w=h
+_.x=null},
 SZ(a){var s,r,q,p,o="event_images",n="property",m="user_email",l=new A.oK()
 l.a=a.h(0,"start_time")
 l.b=a.h(0,"booking_date_time")
@@ -97876,6 +97877,7 @@ r.q(0,"type",s.e)
 r.q(0,"key",s.f)
 r.q(0,"sender_id",s.r)
 r.q(0,"property_id",s.w)
+r.q(0,"booking_id",s.x)
 return r}}
 A.oK.prototype={
 cv(){var s,r=this,q=A.K(t.N,t.z)
@@ -103859,6 +103861,7 @@ o.e=p.h(0,"type")
 o.f=p.h(0,"key")
 o.r=p.h(0,"sender_id")
 o.w=p.h(0,"property_id")
+o.x=p.h(0,"booking_id")
 m.push(o)}if(k)return B.N
 else{l=A.b7(6)
 $.j().toString
